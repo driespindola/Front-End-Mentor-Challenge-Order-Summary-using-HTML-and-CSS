@@ -23,7 +23,7 @@ This is a solution to the [Order Summary component main challenge on Frontend Me
 
 ### Links
 
-- Live Site URL: [Github](https://driespindola.github.io/Frontend-Mentor-Challenge-QR-Code-Using-HTML-and-CSS/)
+- Live Site URL: [Github](https://driespindola.github.io/Front-End-Mentor-Challenge-Order-Summary-using-HTML-and-CSS/)
 
 ## My process
 
